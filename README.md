@@ -1,6 +1,5 @@
 <h1>Hi! I'm Clarissa</h1>
 <h3>Having fun as a Web Developer</h3>
-<span style="color: red;">✉️: Email me at issayvega@gmail.com</span>
 <!---
 Tangers2/Tangers2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,8 +12,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/Tangers2/logos/blob/main/py.jpg" alt="Logo" width="50" height="50">
 <img src="https://github.com/Tangers2/logos/blob/main/sql.jpg" alt="Logo" width="50" height="50">
 
-
-
-
-  
 </p>
