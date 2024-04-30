@@ -1,4 +1,4 @@
-<h2>Hi! I'm</h2> <h1>Clarissa</h1>
+<h1>Hi! I'm <p style="font-size: bold;">Clarissa</p></h1>
 <h3>Having fun as a Web Developer</h3>
 <!---
 Tangers2/Tangers2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
