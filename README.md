@@ -10,4 +10,4 @@
 Tangers2/Tangers2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Logo]([css.png](https://github.com/Tangers2/logos/blob/main/css.png))
+![Logo](https://github.com/Tangers2/logos/blob/main/css.png)
