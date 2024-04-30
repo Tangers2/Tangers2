@@ -1,6 +1,6 @@
 <h1>Hi! I'm Clarissa</h1>
 <h3>Having fun as a Web Developer</h3>
-<p>✉️: Email me at <a href"issayvega@gmail.com">issayvega@gmail.com</a></p>
+<p>✉️: Email me at <p style="color: purple;">issayvega@gmail.com</p></p>
 <!---
 Tangers2/Tangers2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
