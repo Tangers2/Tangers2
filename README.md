@@ -11,3 +11,5 @@ Tangers2/Tangers2 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github.com/Tangers2/logos/blob/main/css.png" alt="Logo" width="50" height="50">
+<img src="https://github.com/Tangers2/logos/blob/main/html.png" alt="Logo" width="50" height="50">
+
